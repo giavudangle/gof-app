@@ -1,6 +1,5 @@
  ## Gang of Four Book Ecommerce 🚀
 
-
 <div >
 <img width="400px" height="400px" src="https://res.cloudinary.com/codingwithvudang/image/upload/v1622117732/logo_hcbfie.png" >
 
@@ -69,5 +68,6 @@ The project applys these patterns :
 
  The libraries/frameworks apply GOF patterns:
   - [X] Chain of Responsibility : Using Redux for state management
+  - [X] State : Dispatch -> Update new state
   - [X] Composition: React Native follow React's strategy 
   In React using Composition and Props gives you all the flexibility that you would need. React does not say Composition is better than Inheritance. Composition just fits better within the React’s component structure.
