@@ -60,10 +60,12 @@ Design Patterns: Elements of Reusable Object-Oriented Software is a book on soft
 The project applys these patterns :  
   - [X] Singleton : In core/Singleton
   - [X] Factory : In core/Factory
-  - [X] Template Method : In core/TemplateMethod 
+  - [X] Template Method : In core/TemplateComposition 
+  - [X] Composition : In core/TemplateComposition 
   - [X] Iterator : In core/Iterator
   - [X] Proxy: In core/Proxy
   - [X] Strategy : In core/Strategy
+  - [X] Command : In core/Command
 
  The libraries/frameworks apply GOF patterns:
   - [X] Chain of Responsibility : Using Redux for state management

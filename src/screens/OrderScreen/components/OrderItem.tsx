@@ -14,7 +14,7 @@ import PropTypes from "prop-types";
 import Steps from "../../../components/UI/Steps";
 import { useDispatch } from "react-redux";
 import { cancelOrder } from "../../../actions/order";
-import TextTemplateMethod from "../../../cores/TemplateMethod/TextTemplateMethod";
+import TextTemplateMethod from "../../../cores/TemplateComposition/TextTemplateComposition";
 
 moment.locale("vi");
 

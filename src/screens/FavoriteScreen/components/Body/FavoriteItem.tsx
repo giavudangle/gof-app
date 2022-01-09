@@ -23,7 +23,7 @@ import NumberFormat from "react-number-format";
 //Text
 //PropTypes check
 import PropTypes from "prop-types";
-import TextTemplateMethod from "../../../../cores/TemplateMethod/TextTemplateMethod";
+import TextTemplateMethod from "../../../../cores/TemplateComposition/TextTemplateComposition";
 import { CartCommand } from "../../../../cores/Command/CartCommand";
 import { FavoriteCommand } from "../../../../cores/Command/FavoriteCommand";
 
